@@ -184,7 +184,7 @@ export default function Valentine() {
                   animate={{ y: [0, -5, 0] }}
                   transition={{ repeat: Infinity, duration: 1.5 }}
                 >
-                  Let's create forever memories! 💞
+                  Let&apos;s create forever memories! 💞
                 </motion.p>
               </motion.div>
             )}
